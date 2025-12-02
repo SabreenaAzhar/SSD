@@ -1,3 +1,6 @@
+print("🚀 SABREENA AZHAR 22I1751 CY-B...")
+print("📌 Database will be stored at: firstapp.db inside the instance folder")
+
 from flask import Flask, render_template, request, redirect, url_for
 from flask_sqlalchemy import SQLAlchemy
 import os
